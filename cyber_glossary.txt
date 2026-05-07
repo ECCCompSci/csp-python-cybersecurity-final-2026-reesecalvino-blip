@@ -1,0 +1,5 @@
+Malware: Software designed to harm a computer or steal data.
+Phishing: A fake message that tricks you into revealing information.
+Encryption: Scrambling data so only authorized people can read it.
+Firewall: A system that monitors and controls network traffic.
+VPN: A tool that encrypts your internet connection.
